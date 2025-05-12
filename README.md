@@ -37,27 +37,7 @@
 
 ---
 
-## 📸 스크린샷
 
-<p align="center">
-  <img src="./screenshots/start.png" width="500" alt="시작 화면"/>
-  <br>
-  <em>🟣 시작 화면 – 네온 감성 폰트와 버튼</em>
-</p>
-
-<p align="center">
-  <img src="./screenshots/play.png" width="500" alt="플레이 화면"/>
-  <br>
-  <em>⚡ 질주 중 – 점수, 속도, 배기 파티클</em>
-</p>
-
-<p align="center">
-  <img src="./screenshots/gameover.png" width="500" alt="게임 오버 화면"/>
-  <br>
-  <em>💀 충돌 시 게임 오버 + 최종 점수 표시</em>
-</p>
-
----
 
 ## 🛠️ 기술 스택
 
